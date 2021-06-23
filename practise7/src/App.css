@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.r {
+  display: flex;
+  flex-direction: row;
+}
+
+.c {
+  display: flex;
+  flex-direction: column;
+}
